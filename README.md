@@ -11,3 +11,7 @@ https://forum.arduino.cc/t/waveshare-e-paper-displays-with-spi/467865
 https://www.instructables.com/How-to-Add-an-E-Ink-Display-to-Your-Project/
 https://www.good-display.com/ - tem no aliexpress
 https://github.com/ZinggJM/GxEPD
+
+# api e gtfs
+porto - `data/gtfs metro porto.zip`
+lisboa - https://api.metrolisboa.pt:9443/store/
