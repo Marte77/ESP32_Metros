@@ -1,5 +1,5 @@
 # ESP32_Metros
-ESP32 project that uses E-Ink to display metros services in real time (se o do porto e lisboa tivessem :( )
+ESP32 project that uses E-Ink to display metros services in real time (se o do porto ~e lisboa~ tivessem :( )
 
 # docs and products to get started
 
@@ -15,3 +15,9 @@ https://github.com/ZinggJM/GxEPD
 # api e gtfs
 porto - `data/gtfs metro porto.zip`
 lisboa - https://api.metrolisboa.pt:9443/store/
+
+# materials
+
+https://www.panelook.com/appmodlist.php?st=&pl=&so_attr=&applications[]=51&production_state=1&pl=list filtrar por brand, size, colors, composition, interface, resolution, backlight
+  SC1452-FOA
+  
