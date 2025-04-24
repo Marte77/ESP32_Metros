@@ -19,5 +19,6 @@ lisboa - https://api.metrolisboa.pt:9443/store/
 # materials
 
 https://www.panelook.com/appmodlist.php?st=&pl=&so_attr=&applications[]=51&production_state=1&pl=list filtrar por brand, size, colors, composition, interface, resolution, backlight
-  SC1452-FOA
+  SC1452-FOA - ja ta fora de stock >:(
+  
   
