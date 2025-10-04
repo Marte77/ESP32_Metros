@@ -1,7 +1,9 @@
 # ESP32_Metros
 ESP32 project that uses E-Ink to display metros services in real time (se o do porto ~e lisboa~ tivessem :( )
+https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html AVALIAR ESTES EM VEZ DO ESP32!!!!!!!!!!!!!!!!!!!
 
 # docs and products to get started
+
 
 http://www.waveshare.com/wiki/1.54inch_e-Paper_Module
 http://www.waveshare.com/wiki/2.13inch_e-Paper_HAT
